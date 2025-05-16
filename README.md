@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan!;" />
 </h1>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=i3bnt.i3bnt" />
-</p>
-<div align="center">
-  <img src="https://github.com/i3bnt/i3bnt/blob/main/Solo_leveling.gif?raw=true" width="580" />
-</div>
 
 
 <!-- Short Bio -->
