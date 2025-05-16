@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Reda+Aladeeb!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan!;" />
 </h1>
 
 <!-- Visitor Counter -->
@@ -17,17 +17,17 @@
 
 
 <!-- Short Bio -->
-<h3 align="center">✨ A passionate .NET Developer & Microsoft Tech Enthusiast</h3>
+<h3 align="center">✨ A passionate about web dev &  </h3>
 
 <br/>
 
 <div align="center">
 
-📍 Based in Egypt  
-📧 <a href="mailto:omaraladeeb45@gmail.com">omaraladeeb45@gmail.com</a>  
-🧠 Currently mastering: .NET Framework  
-🤝 Open to collaborations on Drone Projects  
-⚡ Fun fact: I'm a code warrior (shhh!)
+📍 Based in Jeddah  
+
+🧠 Currently learning: JS
+🤝 Open to collaborations on Projects  
+⚡ Fun fact: I'm a code  (shhh!)
 
 </div>
 
@@ -66,9 +66,8 @@
 <h2 align="center">🌍 Let's Connect</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/omar-reda-4baaa7200/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40"/></a>
-  <a href="https://www.x.com/omar_amor_i" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_twitter-512.png" width="40"/></a>
-  <a href="https://www.twitch.tv/i3bnt" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2286/512/Twitch-512.png" width="40"/></a>
+  
+  <a href="https://www.x.com/i3bnt" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_twitter-512.png" width="40"/></a>
 </div>
 
 <br/>
