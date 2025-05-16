@@ -17,22 +17,7 @@
 
 
 <!-- Short Bio -->
-<h3 align="center">✨ A passionate about web dev &  </h3>
 
-<br/>
-
-<div align="center">
-
-📍 Based in Jeddah  
-
-🧠 Currently learning: JS
-🤝 Open to collaborations on Projects  
-⚡ Fun fact: I'm a code  (shhh!)
-
-</div>
-
-<br/>
-<hr/>
 
 <!-- Tech Stack -->
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
